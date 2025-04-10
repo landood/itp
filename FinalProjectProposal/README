@@ -1,0 +1,35 @@
+# Final Project Proposal
+
+### Title
+Additive Synth
+
+### Summary
+My project is an additive synth developed in p5.js
+
+### Resources
+1. https://p5js.org/tutorials/simple-melody-app/
+2. https://archive.p5js.org/learn/
+3. https://archive.p5js.org/examples/
+
+### Details
+My goal is to create a simple synth that will use a combination of three sin waves. I will utilize key mapping to be able to change the notes and manipulate the instrument. In order to do this, I will have to program the waves in first and then program a way for the wave cycles to either expand or condense depending on the key being pressed. If all of this end up being finished, I hope to also impliment midi
+
+### Project Overlap
+While this project does not directly overlap with any of my other classes, I am currently learning Max, so knowing more about the coding process behind creating an additive synth will hopefully help me to understand Max a little bit better.
+
+### Good Outcome
+A good outcome that I would be satisfied with is just being able to create a synth that can produce at least one sound. Because I am a complete beginner to coding, I think that this would be a good outcome.
+
+### Better Outcome
+A better outcome his being able to play multiple notes on the synth while also having key mapping.
+
+### Best Outcome
+The best outcome for this project is a synth that can play a wide range of notes and is midi controlled.
+
+### Project Outline
+
+**Week 1**: Learn how to program a sin wave. Study the tutorials found in p5.js.
+
+**Week 2**: Program a way to play the sin waves along side each other. Develope the additive synth. 
+
+**Week 3**: Program the key mapping/midi mapping. Build the interface that will be used.
