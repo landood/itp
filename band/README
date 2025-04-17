@@ -1,0 +1,42 @@
+## Website Documentation
+
+### What I Did
+For this assignment, I made a website and learned how to add images, colors, audio, and text formats to it.
+
+### How I Did It
+This assignment was super fun and allowed for a lot of future exploration. The first thing I did was look at the code for your sample website. From there, I used the w3schools website's tutorials to learn more about what I was looking at. The code that was on the sample website had everything I neeeded to make a sample website, so I went ahead and copied it over to my project. After this, I went into the code and began to edit it.
+
+I started with the easiest part to edit which was the text. All I had to do was rewrite what I wanted the website to say within the header, secondary header, and body. I also rewrote the title of the website.
+
+On the title, I was feeling goofy so I wrote,
+
+"landon's epic internet hideout (no girlz allowed)"
+
+Moving on to the first header, I wrote,
+
+"NINJA ATTACK WEEKLY"
+
+For the second header, I wrote a Khalil Gibran quote I really enjoy that goes like this:
+
+"Love one another but make not a bond of love: Let it rather be a moving sea between the shores of your souls"
+
+For the final part of the beginning, the quote, I wrote,
+
+"His eyes were eggs of unstable crystal, vibrating with a frequency whose name was rain and the sound of trains, suddenly sprouting a humming forest of hair-fine glass spines."
+
+This quote was from a book I finished two weeks ago called *Neuromancer*. I found it especially apt considering that part of the book is about the growing symbiosis between machine and man.
+
+For the link, I put in my own website and added a smiley face next to the text.
+
+
+Once all the text had been edited, I began working on adding images and audio. At first I thought it would be as simple as just putting an image and audiofile in a subfolder and then routing them to the code, but I ended up having to consolt the w3schools's tutorial in order to complete this task. I realized that I actually had to add an extra part to the code which showed the computer which folder it needed to look through to find the materials. The final line of code looked like this:
+
+`<img src="/img/mishima.jpg">`
+
+For the image, I selected a picture of one of my favorite writers and philosophers, Yukio Mishima, and for the audio, I added a small project I did for a weekly composition assignment I have to do for another class.
+
+After inputing the image and audio file, I wanted to mess around with the colors of the website, so I used the w3schools's tutorial to figure out. It was a lot easier than I expected. All I had to do was explain to the computer that I wanted the style of certain parts to match a part of the color spectrum. For the first heading, I even added a border. The code looked like this:
+
+`<h1 style="border:2px solid Tomato;">NINJA ATTACK WEEKLY</h1>`
+
+This was all of the things I did. I can't wait to keep exploring different customization options!
